@@ -3,4 +3,4 @@ Become a twat in this Python-made videogame created by none other than Depatosth
 Features:
 - Twat
 - Twat
-Coming soon: Wanker 
+- Coming soon: Wanker 
